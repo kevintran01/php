@@ -1,2 +1,1 @@
-<?php
-echo "Hello World";
+<?phpecho "Here I go again on my own.";
